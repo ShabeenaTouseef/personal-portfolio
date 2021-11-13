@@ -47,7 +47,7 @@ margin: 20px 0px;
     height: 840px;
     justify-content: center;
     align-items: center;
-    background: url('images/pc.jpg') no-repeat center center/cover;
+    background: url('../images/pc.jpg') no-repeat center center/cover;
 
 }
    
