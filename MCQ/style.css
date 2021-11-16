@@ -12,7 +12,7 @@ html {
 }
 
 .main-div {
-    background-image: url('../img/math.jpeg');
+    background-image: url('img/math.jpeg');
     width: 100vw;
     min-height: 100vh;
     display: grid;
